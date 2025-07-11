@@ -3,4 +3,5 @@ void main() {
   int e = 82;
   String email = "moaz02@gmail.com";
   print(email);
+  print(email);
 }
